@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cfa-holding-counter/static/css/main.8d083abb.css",
+    "main.js": "/cfa-holding-counter/static/js/main.fdad7799.js",
+    "index.html": "/cfa-holding-counter/index.html",
+    "main.8d083abb.css.map": "/cfa-holding-counter/static/css/main.8d083abb.css.map",
+    "main.fdad7799.js.map": "/cfa-holding-counter/static/js/main.fdad7799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d083abb.css",
+    "static/js/main.fdad7799.js"
+  ]
+}
