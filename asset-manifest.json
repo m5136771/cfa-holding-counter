@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cfa-holding-counter/static/css/main.8d083abb.css",
-    "main.js": "/cfa-holding-counter/static/js/main.fdad7799.js",
+    "main.css": "/cfa-holding-counter/static/css/main.0a4cb52e.css",
+    "main.js": "/cfa-holding-counter/static/js/main.61b2e911.js",
     "index.html": "/cfa-holding-counter/index.html",
-    "main.8d083abb.css.map": "/cfa-holding-counter/static/css/main.8d083abb.css.map",
-    "main.fdad7799.js.map": "/cfa-holding-counter/static/js/main.fdad7799.js.map"
+    "main.0a4cb52e.css.map": "/cfa-holding-counter/static/css/main.0a4cb52e.css.map",
+    "main.61b2e911.js.map": "/cfa-holding-counter/static/js/main.61b2e911.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d083abb.css",
-    "static/js/main.fdad7799.js"
+    "static/css/main.0a4cb52e.css",
+    "static/js/main.61b2e911.js"
   ]
 }
